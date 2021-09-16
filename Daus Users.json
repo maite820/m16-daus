@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "602d558281e658387452ffb0"
+  },
+  "id": "1",
+  "nameUser": "ANONIMO",
+  "user": "LRos",
+  "pwd": "1111",
+  "email": "LAURA@GMAIL.COM",
+  "date": {
+    "$date": "2021-01-05T11:14:00Z"
+  }
+}]
